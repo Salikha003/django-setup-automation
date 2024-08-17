@@ -36,7 +36,7 @@ Create and Activate a Virtual Environment:
 If you haven't created a virtual environment yet, do so by running:
 
 ```bash
-python -m venv env
+python -m venv venv
 ```
 
 To activate the virtual environment:
@@ -44,7 +44,7 @@ To activate the virtual environment:
 On Windows:
 
 ```bash
-env\Scripts\activate
+venv\Scripts\activate
 ```
 
 Install Project Dependencies:
