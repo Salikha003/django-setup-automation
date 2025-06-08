@@ -120,7 +120,5 @@ For detailed contributing guidelines, please refer to our CONTRIBUTING.md file.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-If you have any questions or need further assistance, feel free to open an issue on this repository or contact us at solihahusniddinova27@gmail.com
 
 
